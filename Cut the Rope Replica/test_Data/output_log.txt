@@ -1,0 +1,106 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create device and context (887a0004).
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [atiumdag.dll 8.14.10.647]
+    Renderer: Radeon X1950 Pro
+    Vendor:   ATI
+    VRAM:     894 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=0 DF16=1 INTZ=0 NULL=0 RESZ=0 SlowINTZ=0 ATOC=0 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Desktop\Всякая дичь\Cut the Rope Replica\test_Data\Managed\System.dll (this message is harmless)
+D3D shader create error for pixel shader
+WARNING: Shader Unsupported: 'Hidden/CubeBlur' - Pass '' has no fragment shader
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.275478 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.681626 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.386496 ms (FindLiveObjects: 0.030026 ms CreateObjectMapping: 0.023097 ms MarkObjects: 0.327213 ms  DeleteObjects: 0.005389 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.803789 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 0.457713 ms (FindLiveObjects: 0.037340 ms CreateObjectMapping: 0.038495 ms MarkObjects: 0.376102 ms  DeleteObjects: 0.005389 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at SC_CursorTrail.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.466684 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 2.036805 ms (FindLiveObjects: 0.031181 ms CreateObjectMapping: 0.036570 ms MarkObjects: 0.292952 ms  DeleteObjects: 1.675716 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.575125 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 0.355315 ms (FindLiveObjects: 0.043500 ms CreateObjectMapping: 0.038495 ms MarkObjects: 0.267544 ms  DeleteObjects: 0.005004 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at SC_CursorTrail.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.990878 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 2.122266 ms (FindLiveObjects: 0.043115 ms CreateObjectMapping: 0.035416 ms MarkObjects: 0.317974 ms  DeleteObjects: 1.723835 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.653656 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 367.
+Total: 0.453093 ms (FindLiveObjects: 0.047349 ms CreateObjectMapping: 0.036955 ms MarkObjects: 0.360704 ms  DeleteObjects: 0.006929 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at SC_CursorTrail.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.459755 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 2.111872 ms (FindLiveObjects: 0.044270 ms CreateObjectMapping: 0.035800 ms MarkObjects: 0.310275 ms  DeleteObjects: 1.720371 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.716404 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 0.391115 ms (FindLiveObjects: 0.041575 ms CreateObjectMapping: 0.033876 ms MarkObjects: 0.307195 ms  DeleteObjects: 0.007314 ms)
+
+QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1024 -> priority: 1 
